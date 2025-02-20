@@ -6,7 +6,7 @@ html {
   body {
     padding: 0px;
     margin: 0px;
-    background-image: url('/img/fundoLogin.jpeg');
+    background-image: url('../img/fundoLogin.jpeg');
     background-repeat: no-repeat; /* Evita repetição */
     background-size: cover;
     background-position: center; /* Centraliza a imagem */
